@@ -2,22 +2,36 @@
     color: darkolivegreen;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     text-align: center;
-    font-size: 10px;
+    font-size: 19px;
+    background-color: cadetblue;
 
 }
 #m{
     color: dimgrey;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
     text-align: center;
-    font-size: 10px;
+    font-size: 19px;
+    background-color: turquoise;
     
 
 }
 #b{
     color: lawngreen;
-    font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     text-align: center;
-    font: size 10px;;
+    font-size: 19px;
+    background-color: tomato;
 
 
+}
+.nm{
+    color: darkorange;
+    background-color: rgba(0, 0, 0, 0.692);
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 5px  20px;
+    padding: 10px 15px;
+    border: 4px solid tomato;
+    font-size: 20px;
+    justify-content: center;
 }
